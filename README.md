@@ -34,7 +34,7 @@ Proyek ini adalah website portofolio pribadi statis yang dibangun dengan **Larav
 
 1.  Clone repositori ini:
     ```bash
-    git clone [https://github.com/Xazorken/nama-repo-kamu.git](https://github.com/Xazorken/nama-repo-kamu.git)
+    git clone [https://github.com/Xazorken/CV-and-Profile-using-React-Expo.git](https://github.com/Xazorken/CV-and-Profile-using-React-Expo.git)
     ```
 2.  Install dependencies:
     ```bash

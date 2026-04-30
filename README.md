@@ -1,5 +1,9 @@
 # Personal Portfolio Website - Valentino Irving
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6dbb16fb-beb2-4616-b113-922592fb1b87" />
+<img width="1846" height="920" alt="image" src="https://github.com/user-attachments/assets/a720f1e3-cbfa-459f-935f-400fbaed2d3d" />
+<img width="1837" height="906" alt="image" src="https://github.com/user-attachments/assets/d6acc1d9-c687-47d7-9e5b-f7beed74bc5a" />
+<img width="1821" height="938" alt="image" src="https://github.com/user-attachments/assets/4c556a02-75ec-4e47-9f4c-d11885a6288f" />
+
+
 
 Proyek ini adalah website portofolio pribadi statis yang dibangun dengan **Laravel + React (Vite)** dan **Tailwind CSS**. Website ini dirancang untuk menampilkan profil profesional, riwayat pendidikan, serta sinkronisasi proyek secara *real-time* menggunakan GitHub API.
 

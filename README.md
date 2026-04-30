@@ -62,4 +62,4 @@ Proyek ini adalah website portofolio pribadi statis yang dibangun dengan **Larav
     ```
 
 ---
-Dibuat dengan ❤️ oleh **Valentino Irving** sebagai bagian dari pengembangan portofolio akademik di BINUS University.
+Dibuat dengan oleh **Valentino Irving** sebagai bagian dari pengembangan portofolio akademik di BINUS University.
